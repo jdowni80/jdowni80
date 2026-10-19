@@ -38,6 +38,15 @@ AI-guided reflection app with automated journal synthesis, private social circle
 - Built real-time voice conversations with browser audio capture, Whisper transcription, and Google Cloud TTS
 - Implemented LLM-powered task extraction, OAuth (Google/Apple), JWT auth, and privacy controls across a Heroku-backed API
 
+### [Over Par](https://fancy-dog-games.itch.io/over-par)
+*Slingshot Golf Roguelike · Lua, Löve*
+
+A roguelike featuring procedurally generated golf holes.
+
+- Dual health and score mechanics for complex gameplay
+- Physics-based top-down golf engine
+- 32 custom cards featuring handmade pixel art that change scoring and gameplay mechanics
+
 ### Research & Clinical Tools
 | Project | Stack | Summary |
 |---------|-------|---------|
@@ -45,7 +54,6 @@ AI-guided reflection app with automated journal synthesis, private social circle
 | **CKN Portal** | React, Django | Natural-language query portal for the Common Kinase Numbering system |
 | **Protein Visualization Portals** | React | Interactive web portals for protein structure and dependency data at St. Jude |
 | **DiagnosAI** | — | Generative AI tool to help clinicians adopt cutting-edge research into treatment protocols |
-| **Wiillow** | Django, Capacitor, AWS EC2 | Cross-platform app helping children practice communication via personalized AI avatars |
 
 ---
 
@@ -99,7 +107,7 @@ Coursework: Computer Architecture, Data Structures & Algorithms (C++), Database 
 
 ## Game Dev & Creative
 
-I've shipped **8+ indie games** on [itch.io](https://fancy-dog-games.itch.io), including *Reawaken Demo*, *Tennis Wars*, *Slime Hunter*, *Furious Fowls*, *Bloobert*, *Duck: A Day In The Life*, *MagiBlade*, and *Ghostly Melee*.
+I've shipped **9 indie games** on [itch.io](https://fancy-dog-games.itch.io), including *Reawaken Demo*, *Tennis Wars*, *Slime Hunter*, *Furious Fowls*, *Bloobert*, *Duck: A Day In The Life*, *MagiBlade*, *Ghostly Melee*, and *Over Par*.
 
 - 🎮 [Fancy Dog Games on itch.io](https://fancy-dog-games.itch.io)
 - 🎨 [Pixel art on Instagram](https://www.instagram.com/fancydoggameart/)
